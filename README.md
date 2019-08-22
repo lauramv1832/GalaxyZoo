@@ -1,8 +1,9 @@
 GalaxyZoo
 
-Using unsupervised learning algorithms to classify galaxies as spiral or elliptical.
+•	Using unsupervised learning algorithms to classify galaxies as spiral or elliptical.
 
 •	Developed in Python using jupyter notebooks, pandas, numpy, matplotlib, and sklearn.
+
 
 Data reference: https://data.galaxyzoo.org/
 
